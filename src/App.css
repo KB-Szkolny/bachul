@@ -36,7 +36,8 @@ footer {
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5)
 }
 .logo {
-  max-width: 100%; /* Logo nie będzie większe niż kontener */
-  height: auto; /* Zachowanie proporcji */
-  max-height: 191px; /* Maksymalna wysokość logo */
+  max-width: 100%;
+  height: auto;
+  max-height: 191px;
+  margin-top: 3%;
 }
